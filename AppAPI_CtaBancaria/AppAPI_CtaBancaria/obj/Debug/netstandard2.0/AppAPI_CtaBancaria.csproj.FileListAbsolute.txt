@@ -1,0 +1,15 @@
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.csproj.AssemblyReference.cache
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.AssemblyInfoInputs.cache
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.AssemblyInfo.cs
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.csproj.CoreCompileInputs.cache
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.dll
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\refint\AppAPI_CtaBancaria.dll
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\AppAPI_CtaBancaria.pdb
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\bin\Debug\netstandard2.0\AppAPI_CtaBancaria.deps.json
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\bin\Debug\netstandard2.0\AppAPI_CtaBancaria.dll
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\bin\Debug\netstandard2.0\AppAPI_CtaBancaria.pdb
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\PC_97\source\repos\AppAPI_CtaBancaria\AppAPI_CtaBancaria\AppAPI_CtaBancaria\obj\Debug\netstandard2.0\ref\AppAPI_CtaBancaria.dll

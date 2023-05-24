@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppAPI_CtaBancaria.MainPage">
+
+    <StackLayout BackgroundColor="White" AbsoluteLayout.LayoutFlags="All">
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="API CUENTA BANCARIA" HorizontalTextAlignment="Center" TextColor="White" FontSize="15"/>
+        </Frame>
+        <Grid>
+            <Frame AbsoluteLayout.LayoutFlags="SizeProportional,YProportional" AbsoluteLayout.LayoutBounds="0,.95,1,0.62" BackgroundColor="#E5E8E8" >
+                <Grid AbsoluteLayout.LayoutFlags="SizeProportional,YProportional" AbsoluteLayout.LayoutBounds="0,1,1,0.62" >
+                    <Frame Grid.Column="1" Grid.Row="0" Padding="0"  CornerRadius="45">
+                        <Button   Text="Insertar"  Clicked="Btn_Insert" BackgroundColor="Wheat" TextColor="black"/>
+                    </Frame>
+                    <Frame Grid.Column="1" Grid.Row="1" Padding="0"  CornerRadius="45">
+                        <Button   Text="Actualizar"  Clicked="Btn_Update" BackgroundColor="Wheat" TextColor="black"/>
+                    </Frame>
+                    <Frame Grid.Column="0" Grid.Row="0" Padding="0"  CornerRadius="45" Grid.RowSpan="2" >
+                        <Button   Text="Mostrar"  Clicked="Btn_Leer" BackgroundColor="Wheat" TextColor="black"/>
+                    </Frame>
+                </Grid>
+            </Frame>
+        </Grid>
+        <Label x:Name="lblDatos" IsVisible="false" Text="Message:" TextColor="Black" HorizontalTextAlignment="Start" BackgroundColor="Aqua"></Label>
+        <Label Text="ID:" TextColor="Black" HorizontalTextAlignment="Start" BackgroundColor="#ABEBC6" ></Label>
+        <Entry x:Name="textId" TextColor="Black" HorizontalTextAlignment="Center" BackgroundColor="#D5F5E3"></Entry>
+        <Label Text="Nombre:" TextColor="Black" HorizontalTextAlignment="Start" BackgroundColor="#ABEBC6"  ></Label>
+        <Entry x:Name="textNombre" TextColor="Black" HorizontalTextAlignment="Center" BackgroundColor="#D5F5E3"></Entry>
+
+        <Label Text="Entidad:" TextColor="Black" HorizontalTextAlignment="Start" BackgroundColor="#ABEBC6"></Label>
+        <Entry x:Name="textEntidad"  TextColor="Black" HorizontalTextAlignment="Center" BackgroundColor="#D5F5E3" ></Entry>
+        <Label Text="Descripción:" TextColor="Black" HorizontalTextAlignment="Start" BackgroundColor="#ABEBC6"></Label>
+        <Entry x:Name="textDescripcion" TextColor="Black" HorizontalTextAlignment="Center" BackgroundColor="#D5F5E3" ></Entry>
+        <Label  Text="Estado:" TextColor="Black" HorizontalTextAlignment="Start" BackgroundColor="#ABEBC6"></Label>
+        <Entry x:Name="textEstado" TextColor="Black" HorizontalTextAlignment="Center" BackgroundColor="#D5F5E3" ></Entry>
+        <Frame Grid.Column="1" Grid.Row="1" Padding="0"  CornerRadius="45" HorizontalOptions="End">
+            <Button   Text="Eliminar"  Clicked="Btn_Delete" BackgroundColor="Red" TextColor="black"/>
+        </Frame>
+
+    </StackLayout>
+
+</ContentPage>
